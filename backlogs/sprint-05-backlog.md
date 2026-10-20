@@ -8,7 +8,7 @@ permaling: /backlogs/sprint-05-backlog
 
 Scrum Master: David
 
-Product Owner: Andres
+Product Owner: Abdul
 
 Sprint 5 Planning Date/Time: 20 October 2026, 09:30
 
