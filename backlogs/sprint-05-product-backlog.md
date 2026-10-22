@@ -7,6 +7,7 @@ permalink: /backlogs/sprint-05-product-backlog
 Sprint 5 Product Backlog:
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
+|--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | RC-001 | As the Product Owner, I want to continuously groom the product backlog for high priority stories and appropriately assign them to team members. | 8 | 4 | Y | Ready | Abdul |
 | RC-002 | As a Scrum Team, we want to attend Capstone sprint planning and coordinate across production teams. | 8 | 4 | Y | Ready | Team |
 | RC-003 | As a Scrum Team, we want to update and test the products "credits" page to include ourselves. | 8 | 3 | Y | Ready | Team |

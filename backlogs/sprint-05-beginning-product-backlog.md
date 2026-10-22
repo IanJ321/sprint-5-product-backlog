@@ -25,6 +25,7 @@ Scrum Master: Ian
 Sprint 5 Beginning Product Backlog:
 
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
+|--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | RC-001 | As the Product Owner, I want to continuously groom the product backlog for high priority stories and appropriately assign them to team members. | -- | - | Y | ----- | ----- |
 | RC-002 | As a Scrum Team, we want to attend Capstone sprint planning and coordinate across production teams. | -- | - | Y | ----- | ----- |
 | RC-003 | As a Scrum Team, we want to update and test the products "credits" page to include ourselves. | -- | - | Y | ----- | ----- |
